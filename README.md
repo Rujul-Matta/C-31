@@ -1,2 +1,1 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+__*C-31*__
